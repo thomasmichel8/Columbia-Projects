@@ -1,10 +1,6 @@
 ##### This is the Final Project for IEOR 4725 Prediction Market by:
 
-##### Renjun Cheng, 		UNI: rc3426
-##### Xinzhi(Cindy) Liang, 		UNI: xl3150
-##### Helen Wang, 			UNI:hw2811
-##### Thomas Michel, 		UNI:tm3206
-
+##### Renjun Cheng, Xinzhi(Cindy) Liang, Helen Wang, UNI:hw2811 Thomas Michel
 
 ##### Final Paper:
 ##### Our final paper is a pdf file under root folder named as: 
