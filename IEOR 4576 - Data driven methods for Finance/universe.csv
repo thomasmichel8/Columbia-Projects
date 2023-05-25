@@ -1,0 +1,111 @@
+id,class,symbol,name
+1,Stock,ABBV,AbbVie
+2,Stock,ACN,Accenture
+3,Stock,AEP,American Electric Power
+4,Stock,AIZ,Assurant
+5,Stock,ALLE,Allegion
+6,Stock,AMAT,Applied Materials
+7,Stock,AMP,Ameriprise Financial
+8,Stock,AMZN,Amazon
+9,Stock,AVB,AvalonBay Communities
+10,Stock,AVY,Avery Dennison
+11,Stock,AXP,American Express
+12,Stock,BDX,Becton Dickinson
+13,Stock,BF-B,Brown-Forman
+14,Stock,BMY,Bristol Myers Squibb
+15,Stock,BR,Broadridge Financial Solutions
+16,Stock,CARR,Carrier Global
+17,Stock,CDW,CDW
+18,Stock,CE,Celanese
+19,Stock,CHTR,Charter Communications
+20,Stock,CNC,Centene
+21,Stock,CNP,CenterPoint Energy
+22,Stock,COP,ConocoPhillips
+23,Stock,CTAS,Cintas Corporation
+24,Stock,CZR,Caesars Entertainment
+25,Stock,DG,Dollar General
+26,Stock,DPZ,Domino's Pizza
+27,Stock,DRE,Duke Realty Corp
+28,Stock,DXC,DXC Technology
+29,Stock,META,Meta Platforms
+30,Stock,FTV,Fortive
+31,Stock,GOOG,Alphabet (Class C)
+32,Stock,GPC,Genuine Parts
+33,Stock,HIG,The Hartford
+34,Stock,HST,Host Hotels & Resorts
+35,Stock,JPM,JPMorgan Chase
+36,Stock,KR,Kroger
+37,Stock,OGN,Organon & Co.
+38,Stock,PG,Procter & Gamble
+39,Stock,PPL,PPL
+40,Stock,PRU,Prudential Financial
+41,Stock,PYPL,PayPal
+42,Stock,RE,Everest Re
+43,Stock,ROL,Rollins
+44,Stock,ROST,Ross Stores
+45,Stock,UNH,UnitedHealth Group
+46,Stock,URI,United Rentals
+47,Stock,V,Visa
+48,Stock,VRSK,Verisk Analytics
+49,Stock,WRK,WestRock
+50,Stock,XOM,ExxonMobil
+51,ETF,IVV,iShares Core S&P 500 ETF
+52,ETF,IWM,iShares Russell 2000 ETF
+53,ETF,EWU,iShares MSCI United Kingdom ETF
+54,ETF,EWG,iShares MSCI Germany ETF
+55,ETF,EWL,iShares Msci Switzerland ETF
+56,ETF,EWQ,iShares MSCI France ETF
+57,ETF,IEUS,iShares MSCI Europe Small-Cap ETF
+58,ETF,EWJ,iShares MSCI Japan ETF
+59,ETF,EWT,iShares Msci Taiwan ETF
+60,ETF,MCHI,iShares MSCI China ETF
+61,ETF,INDA,iShares MSCI India ETF
+62,ETF,EWY,iShares Msci South Korea ETF
+63,ETF,EWA,iShares MSCI Australia ETF
+64,ETF,EWH,iShares MSCI Hong Kong ETF
+65,ETF,EWZ,iShares Msci Brazil ETF
+66,ETF,EWC,iShares MSCI Canada ETF
+67,ETF,IEMG,iShares Core MSCI Emerging Markets ETF
+68,ETF,LQD,iShares iBoxx $ Inv Grade Corporate Bond ETF
+69,ETF,HYG,iShares iBoxx $ High Yield Corporate Bond ETF
+70,ETF,SHY,iShares 1-3 Year Treasury Bond ETF
+71,ETF,IEF,iShares 7-10 Year Treasury Bond ETF
+72,ETF,TLT,iShares 20 Plus Year Treasury Bond ETF
+73,ETF,SEGA.L,iShares III Public Limited Company - iShares Core Euro Government Bond UCITS ETF
+74,ETF,IEAA.L,iShares III Public Limited Company - iShares Core Euro Corporate Bond UCITS ETF
+75,ETF,HIGH.L,iShares Public Limited Company - iShares Euro High Yield Corp Bond UCITS ETF
+76,ETF,JPEA.L,iShares II Public Limited Company - iShares J.P. Morgan $ Emerging Markets Bond UCITS ETF
+77,ETF,IAU,iShares Gold Trust
+78,ETF,SLV,iShares Silver Trust
+79,ETF,GSG,iShares S&P GSCI Commodity-Indexed Trust ETF
+80,ETF,REET,iShares Global REIT ETF
+81,ETF,ICLN,iShares Global Clean Energy ETF
+82,ETF,IXN,iShares Global Tech ETF
+83,ETF,IGF,iShares Global Infrastructure ETF
+84,ETF,IUVL.L,iShares IV Public Limited Company - iShares Edge MSCI USA Value Factor UCITS ETF
+85,ETF,IUMO.L,iShares Edge MSCI USA Momentum Factor ETF
+86,ETF,SPMV.L,iShares VI Public Limited Company - iShares Edge S&P 500 Minimum Volatility UCITS ETF
+87,ETF,IEVL.L,iShares IV Public Limited Company - iShares Edge MSCI Europe Value Factor UCITS ETF
+88,ETF,IEFM.L,iShares IV Public Limited Company - iShares Edge MSCI Europe Momentum Factor UCITS ETF
+89,ETF,MVEU.L,iShares VI Public Limited Company - iShares Edge MSCI Europe Minimum Volatility UCITS ETF
+90,ETF,XLK,Technology Select Sector SPDR Fund
+91,ETF,XLF,Financial Select Sector SPDR Fund
+92,ETF,XLV,Health Care Select Sector SPDR Fund
+93,ETF,XLE,Energy Select Sector SPDR Fund
+94,ETF,XLY,Consumer Discretionary Select Sector SPDR Fund
+95,ETF,XLI,Industrial Select Sector SPDR Fund
+96,ETF,XLC,Communication Services Select Sector SPDR Fund
+97,ETF,XLU,Utilities Select Sector SPDR Fund
+98,ETF,XLP,Consumer Staples Select Sector SPDR Fund
+99,ETF,XLB,Materials Select Sector SPDR Fund
+100,ETF,VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN
+101,Crypto,BTC-USD,Bitcoin
+102,Crypto,ETH-USD,Ethereum
+103,Crypto,BNB-USD,BNB
+104,Crypto,ADA-USD,Cardano
+105,Crypto,XRP-USD,XRP
+106,Crypto,SOL-USD,Solana
+107,Crypto,DOGE-USD,Dogecoin
+108,Crypto,DOT-USD,Polkadot
+109,Crypto,SHIB-USD,Shiba Inu
+110,Crypto,AVAX-USD,Avalanche
